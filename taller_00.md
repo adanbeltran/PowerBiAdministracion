@@ -10,6 +10,9 @@ Aplicar un proceso básico de análisis de datos en Power BI usando la metodolog
 
 ### 2.1 CRISP-DM
 
+<img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/4955256d-04b0-4705-abfc-06ef49185865" />
+
+
 **CRISP-DM** (*Cross-Industry Standard Process for Data Mining*) es una metodología para desarrollar proyectos de análisis de datos de manera ordenada.
 
 Referencia oficial de IBM:
