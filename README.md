@@ -10,7 +10,7 @@ Material en formato Markdown para estudiantes de **Administración** e **Ingenie
 
 ## Talleres
 
-- [Taller 00. Conceptos básicos de Power BI y análisis de datos](./taller_00_conceptos_basicos_de_power_bi_y_analisis_de_datos.md)
+- [Taller 00. Conceptos básicos de Power BI y análisis de datos](./talleres/taller_00_conceptos_basicos_de_power_bi_y_analisis_de_datos.md)
 - [Taller 01. Diagnóstico de calidad de datos en ventas](./taller_01_diagnostico_de_calidad_de_datos_en_ventas.md)
 - [Taller 02. Integración de datos comerciales](./taller_02_integracion_de_datos_comerciales.md)
 - [Taller 03. Análisis de ventas empresariales](./taller_03_analisis_de_ventas_empresariales.md)
