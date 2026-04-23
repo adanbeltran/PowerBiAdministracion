@@ -252,7 +252,7 @@ Responder en clase preguntas como:
 
 ---
 
-## 4. Reto en clase: ahora hazlo tú
+## 4. Reto en casa: ahora hazlo tú
 
 Para el reto debes trabajar con el dataset adjunto **DirectMarketing.csv**.
 
