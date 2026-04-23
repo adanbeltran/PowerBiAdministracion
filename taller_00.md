@@ -66,6 +66,8 @@ Comparación breve:
 ### 2.3 DAX
 
 **DAX** (*Data Analysis Expressions*) es el lenguaje de fórmulas de Power BI. Se usa para crear cálculos dentro del modelo de datos.
+<img width="642" height="211" alt="image" src="https://github.com/user-attachments/assets/36d21959-d5f6-4cb1-a339-ea41a6790a24" />
+
 
 En Power BI, DAX se usa principalmente para:
 - **medidas**: cálculos dinámicos que cambian según filtros y visualizaciones
