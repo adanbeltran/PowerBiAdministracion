@@ -453,6 +453,8 @@ Renombrar como:
 ```text
 Categoría
 ```
+<img width="868" height="813" alt="image" src="https://github.com/user-attachments/assets/fdbca9bd-19ce-484c-a740-1020df5b7aeb" />
+
 
 Explicación:
 
