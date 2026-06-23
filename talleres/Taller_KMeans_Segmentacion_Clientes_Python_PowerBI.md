@@ -63,6 +63,9 @@ El conjunto contiene información de **440 clientes** de una empresa distribuido
 
 > La variable aparece escrita como `Delicassen` en el archivo original.
 
+<img width="422" height="209" alt="image" src="https://github.com/user-attachments/assets/483d3999-b7df-452f-bdb6-a6f5d79c7f5d" />
+
+
 ## Justificación del dataset
 
 Este conjunto es apropiado para K-Means porque:
