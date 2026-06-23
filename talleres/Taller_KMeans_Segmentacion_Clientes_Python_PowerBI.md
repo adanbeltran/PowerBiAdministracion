@@ -34,7 +34,7 @@ La organización desea construir una segmentación de clientes basada en sus pat
 - distribuir la atención de los asesores comerciales;
 - diseñar portafolios y descuentos por tipo de cliente.
 
-El equipo asumirá el rol de una unidad de analítica comercial. Su tarea será construir, evaluar e interpretar una segmentación mediante **K-Means** y comunicar los resultados en Power BI.
+Usted asumirá el rol de una unidad de analítica comercial. Su tarea será construir, evaluar e interpretar una segmentación mediante **K-Means** y comunicar los resultados en Power BI.
 
 ---
 
@@ -112,7 +112,7 @@ Al finalizar el taller, el estudiante estará en capacidad de:
 
 ## Actividad
 
-El equipo deberá definir:
+Usted deberá definir:
 
 - la necesidad empresarial;
 - los usuarios de la segmentación;
@@ -147,7 +147,7 @@ Un planteamiento de máximo media página con:
 
 ## Trabajo en Python
 
-El equipo deberá explorar y documentar:
+Usted deberá explorar y documentar:
 
 - cantidad de registros;
 - tipos de datos;
@@ -197,7 +197,7 @@ Las variables `Channel` y `Region` no deberán incluirse en el modelo inicial po
 
 ## Decisiones metodológicas
 
-K-Means utiliza distancias entre observaciones. Por esta razón, el equipo deberá decidir cómo tratar:
+K-Means utiliza distancias entre observaciones. Por esta razón, Usted deberá decidir cómo tratar:
 
 - diferencias de escala;
 - distribuciones fuertemente asimétricas;
@@ -206,7 +206,7 @@ K-Means utiliza distancias entre observaciones. Por esta razón, el equipo deber
 
 ## Transformaciones esperadas
 
-El equipo deberá comparar, como mínimo, dos escenarios:
+Usted deberá comparar, como mínimo, dos escenarios:
 
 ### Escenario A. Estandarización directa
 
@@ -258,7 +258,7 @@ Identificar grupos de clientes con patrones de gasto semejantes.
 
 ## Trabajo en Python
 
-El equipo deberá construir varias soluciones de clustering y comparar valores de:
+Usted deberá construir varias soluciones de clustering y comparar valores de:
 
 ```text
 k = 2, 3, 4, 5 y 6
@@ -291,13 +291,13 @@ KMeans(
 )
 ```
 
-Este fragmento no constituye la solución completa. El equipo deberá decidir cómo integrarlo al proceso.
+Este fragmento no constituye la solución completa. Usted deberá decidir cómo integrarlo al proceso.
 
 ## Selección del número de clústeres
 
 La selección de `k` no debe depender de un único criterio.
 
-El equipo deberá considerar conjuntamente:
+Usted deberá considerar conjuntamente:
 
 1. método del codo;
 2. coeficiente de silueta;
@@ -336,7 +336,7 @@ Una matriz comparativa:
 
 ## Perfilamiento de los clústeres
 
-Una vez seleccionado el modelo, el equipo deberá calcular para cada clúster:
+Una vez seleccionado el modelo, Usted deberá calcular para cada clúster:
 
 - cantidad de clientes;
 - gasto promedio por categoría;
@@ -529,7 +529,7 @@ Power BI se utilizará para:
 
 La gerencia comercial solicita una propuesta de segmentación para diseñar el plan de ventas del siguiente periodo.
 
-El equipo deberá seleccionar el número de segmentos, describirlos y proponer una estrategia diferenciada.
+Usted deberá seleccionar el número de segmentos, describirlos y proponer una estrategia diferenciada.
 
 ## Actividades
 
