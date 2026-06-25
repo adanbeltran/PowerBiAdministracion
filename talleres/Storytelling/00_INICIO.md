@@ -26,6 +26,7 @@ El informe tendrá estas páginas:
 
 ## Ruta de trabajo
 
+0. [Aspectos Claves de StoryTelling]
 1. [Fase 1. Contexto y pregunta de negocio](01_FASE_CONTEXTO.md)
 2. [Fase 2. Datos y modelo](02_FASE_DATOS_MODELO.md)
 3. [Fase 3. Medidas DAX](03_FASE_MEDIDAS_DAX.md)
