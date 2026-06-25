@@ -1,0 +1,32 @@
+Ventas =
+SUM(financial_sample_storytelling_powerbi[Sales])
+
+Ventas Brutas =
+SUM(financial_sample_storytelling_powerbi[Gross_Sales])
+
+Descuentos =
+SUM(financial_sample_storytelling_powerbi[Discounts])
+
+Costo de Ventas =
+SUM(financial_sample_storytelling_powerbi[COGS])
+
+Utilidad =
+SUM(financial_sample_storytelling_powerbi[Profit])
+
+Unidades =
+SUM(financial_sample_storytelling_powerbi[Units_Sold])
+
+Margen % =
+DIVIDE([Utilidad], [Ventas])
+
+Tasa de Descuento % =
+DIVIDE([Descuentos], [Ventas Brutas])
+
+Ventas por Unidad =
+DIVIDE([Ventas], [Unidades])
+
+Costo por Unidad =
+DIVIDE([Costo de Ventas], [Unidades])
+
+Utilidad por Unidad =
+DIVIDE([Utilidad], [Unidades])

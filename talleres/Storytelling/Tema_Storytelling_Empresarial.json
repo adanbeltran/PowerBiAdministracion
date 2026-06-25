@@ -1,0 +1,68 @@
+{
+  "name": "Storytelling empresarial",
+  "dataColors": [
+    "#2F5597",
+    "#A5A5A5",
+    "#ED7D31",
+    "#70AD47",
+    "#C00000",
+    "#5B9BD5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252525",
+  "tableAccent": "#2F5597",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 13,
+            "fontColor": {
+              "solid": {
+                "color": "#252525"
+              }
+            },
+            "alignment": "left"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F7F7F7"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

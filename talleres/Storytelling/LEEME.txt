@@ -1,0 +1,12 @@
+PAQUETE POWER BI STORYTELLING
+
+Contenido:
+- Financial_Sample_Microsoft.xlsx: dataset oficial original.
+- financial_sample_storytelling_powerbi.csv: dataset limpio.
+- Material_Storytelling_Power_BI_Colab.ipynb: material académico.
+- Tema_Storytelling_Empresarial.json: tema para Power BI.
+- Medidas_DAX.txt: medidas para el modelo.
+- GUIA_CONSTRUCCION_POWER_BI.md: instrucciones de construcción.
+
+Nota:
+No se incluye un archivo .pbix generado, porque Power BI Desktop es la herramienta que crea y convierte ese formato binario.
