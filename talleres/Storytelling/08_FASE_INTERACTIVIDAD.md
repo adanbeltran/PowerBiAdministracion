@@ -20,6 +20,13 @@ Ruta:
 
 **Insertar → Botones → Navegador → Navegador de páginas**
 
+<img width="317" height="364" alt="image" src="https://github.com/user-attachments/assets/24df6066-8da6-40c1-87df-a9177420f401" />
+
+
+
+<img width="808" height="388" alt="image" src="https://github.com/user-attachments/assets/96b8eb75-e4b7-432c-a445-b6cdc55822ad" />
+
+
 ## 2. Segmentadores sincronizados
 
 Sincronice:
