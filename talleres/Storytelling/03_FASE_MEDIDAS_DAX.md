@@ -19,7 +19,7 @@ Cree al menos:
 - Tasa de Descuento %.
 - Pedidos.
 - Ticket Promedio.
-- OTIF %.
+- OTIF(On Time In Full: entregado a tiempo y completo) %.
 - Días Promedio de Entrega.
 - Tasa de Devolución %.
 - Satisfacción Promedio.
